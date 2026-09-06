@@ -11,5 +11,8 @@ docx2txt
 groq
 python-dotenv
 
+# Part 3 - Agentic RAG with LangGraph
+langgraph
+
 # For cross-encoder (included in sentence-transformers, but good to have)
 # rank-bm25 (optional, for BM25 retrieval)
