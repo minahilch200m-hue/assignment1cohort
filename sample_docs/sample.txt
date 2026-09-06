@@ -7,12 +7,3 @@ Wind power uses turbines to capture kinetic energy from moving air and convert i
 Hydroelectric power generates electricity by using flowing or falling water to turn turbines, typically through dams built on rivers. This method has been used for over a century and remains one of the most reliable renewable sources because water flow can often be controlled and predicted. However, building large dams can significantly disrupt local ecosystems and displace communities living nearby.
 
 In recent years, many governments have introduced subsidies and tax incentives to encourage both individuals and companies to adopt renewable energy systems. This shift is largely driven by growing concerns about climate change, air pollution, and the long-term depletion of fossil fuel reserves. As battery technology continues to improve, experts believe renewable energy sources will become even more reliable and widely adopted across residential, commercial, and industrial sectors worldwide.
-Steps
-Open sample.txt in the editor.
-Select all existing content (Ctrl + A) and delete it.
-Paste in the paragraph text above.
-Save (Ctrl + S).
-Then rebuild and test
-powershell
-Remove-Item -Recurse -Force faiss_index_sample_txt
-py pipeline.py

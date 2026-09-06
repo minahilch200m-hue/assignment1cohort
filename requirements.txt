@@ -1,0 +1,15 @@
+# Part 1 packages
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+docx2txt
+
+# Part 2 packages
+groq
+python-dotenv
+
+# For cross-encoder (included in sentence-transformers, but good to have)
+# rank-bm25 (optional, for BM25 retrieval)
