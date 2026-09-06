@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+faiss_index/
+faiss_index_sample_docx/
+faiss_index_sample_pdf/
+faiss_index_sample_txt/
