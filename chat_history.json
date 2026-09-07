@@ -41,5 +41,858 @@
       ],
       "timestamp": "2026-09-07T14:24:20.890944"
     }
+  ],
+  "08073b03-100f-41fa-970b-0b5e23c62140": [
+    {
+      "question": "What are the three most widely adopted forms of renewable energy worldwide?",
+      "answer": "The three most widely adopted forms of renewable energy worldwide are **solar power, wind power, and hydroelectric power**.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:47:06.399784"
+    }
+  ],
+  "0be006b5-311c-46f7-8b84-9556d8657699": [
+    {
+      "question": "How does solar power convert sunlight into electricity?",
+      "answer": "Solar power converts sunlight into electricity by using photovoltaic cells that directly transform the light into electrical energy. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 3
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:47:26.870636"
+    }
+  ],
+  "3c47a559-ecee-4667-a156-8656e26dc9d7": [
+    {
+      "question": "Which technology captures kinetic energy from moving air?",
+      "answer": "Wind power captures kinetic energy from moving air. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T14:47:44.464031"
+    }
+  ],
+  "6ae16c10-ea98-488c-b731-ce78d38988f6": [
+    {
+      "question": "How does solar power convert sunlight into electricity?",
+      "answer": "Solar power converts sunlight into electricity by using photovoltaic cells that directly convert the light into electrical energy. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 3
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:48:30.447201"
+    }
+  ],
+  "a8b83044-1bde-4d00-9cae-0a728321e1b6": [
+    {
+      "question": "What are the three most widely adopted forms of renewable energy worldwide?",
+      "answer": "The three most widely adopted forms of renewable energy worldwide are:\n\n1. Solar power  \n2. Wind power  \n3. Hydroelectric power",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:48:48.234059"
+    }
+  ],
+  "12733319-797b-416f-8426-b7b99b0137da": [
+    {
+      "question": "Which technology captures kinetic energy from moving air?",
+      "answer": "Wind power captures kinetic energy from moving air. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T14:49:07.795845"
+    }
+  ],
+  "a7fb7fca-39a3-48a6-aa1a-c89ccfb2072a": [
+    {
+      "question": "How long has hydroelectric power been in use?",
+      "answer": "Hydroelectric power has been used for **over a century**.The documents do not provide any information indicating that hydroelectric power has been in use for over a century.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:49:42.489815"
+    }
+  ],
+  "6609c9e4-7162-44db-bbca-d34777f6b517": [
+    {
+      "question": "What are the three most widely adopted forms of renewable energy worldwide?",
+      "answer": "The three most widely adopted forms of renewable energy worldwide are **solar power, wind power, and hydroelectric power**.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:50:27.186917"
+    }
+  ],
+  "dd8f9903-3c9c-4940-acc6-fd45abe2d599": [
+    {
+      "question": "How does solar power convert sunlight into electricity?",
+      "answer": "Solar power converts sunlight into electricity by using photovoltaic cells that directly transform the light energy into electrical energy. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 3
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:50:46.760230"
+    }
+  ],
+  "8db4b39a-dda4-4dc9-8f3b-1e1eb185dcae": [
+    {
+      "question": "Which technology captures kinetic energy from moving air?",
+      "answer": "Wind power \u2013 it uses wind turbines to capture the kinetic energy of moving air. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T14:51:07.754725"
+    }
+  ],
+  "7151b3ea-d5fe-48db-be08-4dae8f3c5a00": [
+    {
+      "question": "How long has hydroelectric power been in use?",
+      "answer": "The context provided does not contain any information about how long hydroelectric power has been in use.",
+      "citations": [
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 2
+        }
+      ],
+      "timestamp": "2026-09-07T14:51:43.816823"
+    }
+  ],
+  "9fce8e6f-ff4b-4f35-80b1-168d5759fa6e": [
+    {
+      "question": "What are governments introducing to encourage renewable energy adoption?",
+      "answer": "Governments are introducing **subsidies and tax incentives** to encourage individuals and companies to adopt renewable energy systems.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:52:19.109618"
+    }
+  ],
+  "c880b159-ae4e-415b-8005-7c9338e0ab56": [
+    {
+      "question": "What challenges do solar and wind power share regarding supply consistency, and how are they addressed?",
+      "answer": "Both solar and wind power are highly weather\u2011dependent, so their output can fluctuate with changing weather conditions and daylight availability. This variability can lead to inconsistent power supply. The common way to address this issue is by using energy\u2011storage solutions\u2014most notably batteries\u2014to store excess generation when conditions are favorable and release it when production dips, thereby smoothing the supply. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:52:38.857997"
+    }
+  ],
+  "8192ee96-5361-4220-9456-ef1b83046fd3": [
+    {
+      "question": "Compare the environmental challenges associated with wind turbines and hydroelectric dams.",
+      "answer": "**Environmental challenges**\n\n| Wind turbines | Hydroelectric dams |\n|---------------|--------------------|\n| *Noise pollution* \u2013 turbines can be noisy. | *Ecosystem disruption* \u2013 building large dams can significantly alter local ecosystems. |\n| *Impact on wildlife* \u2013 especially birds and bats that may collide with blades. | *Community displacement* \u2013 large dams can displace communities living nearby. |\n\nIn short, wind turbines mainly raise concerns about noise and wildlife safety, whereas hydroelectric dams are more associated with ecological disruption and the displacement of local populations.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 3
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T14:52:59.029173"
+    }
+  ],
+  "45863981-d68a-4d4d-8d4f-1b362f241a1d": [
+    {
+      "question": "How do geographical features influence the deployment of wind and hydroelectric power?",
+      "answer": "Geographical features shape where wind and hydroelectric projects are built:\n\n* **Wind power** \u2013 Coastal regions and open plains (e.g., Denmark and parts of the United States) provide the steady, strong winds that turbines need, so wind farms are concentrated in those areas.\n\n* **Hydroelectric power** \u2013 It relies on flowing or falling water, so projects are built on rivers where water flow can be controlled and predicted. Large dams are typically constructed in such riverine settings, though they can disrupt local ecosystems and displace nearby communities. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:53:36.494987"
+    }
+  ],
+  "00b75cf1-da52-42fc-82de-cd770ece7de7": [
+    {
+      "question": "What drivers are pushing governments to offer financial incentives for renewable energy?",
+      "answer": "The context indicates that governments are motivated to provide subsidies and tax incentives for renewable energy mainly because of:\n\n- **Growing concerns about climate change**  \n- **Air\u2011pollution issues**  \n- **The long\u2011term depletion of fossil\u2011fuel reserves**  \n\nThese factors drive the push for financial incentives to encourage individuals and companies to adopt renewable energy systems. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 3
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:54:12.496259"
+    }
+  ],
+  "c50e67f2-15dd-443a-83c2-930978dfd681": [
+    {
+      "question": "Why is hydroelectric power considered more reliable than solar energy?",
+      "answer": "Hydroelectric power is considered more reliable than solar energy because the flow of water that drives its turbines can often be **controlled and predicted**. As noted in the text, hydroelectric plants have been in use for over a century and remain one of the most reliable renewable sources precisely because water flow can be regulated through dams and other infrastructure, allowing for a steadier and more predictable supply of electricity. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:54:30.794220"
+    }
+  ],
+  "356565bb-28db-4b1e-9d2b-e76ad3a919a7": [
+    {
+      "question": "Which specific countries are mentioned as having invested heavily in wind farms?",
+      "answer": "Denmark and the United States.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 3
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:54:48.280806"
+    }
+  ],
+  "6b3425d3-55fb-4dc7-a98d-3969f84e8cd4": [
+    {
+      "question": "What specific animals are explicitly named as affected by wind turbines?",
+      "answer": "The text explicitly names **birds** and **bats** as the animals that may be affected by wind turbines.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:55:06.088046"
+    }
+  ],
+  "1374dfaf-52f4-4387-9e5c-c62981ae49b1": [
+    {
+      "question": "What technology component is mentioned as essential for solar power energy storage?",
+      "answer": "The context states that **batteries** are essential for solar power energy storage.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:55:24.812899"
+    }
+  ],
+  "efe5d083-1b2a-4147-96bf-29441b070d1c": [
+    {
+      "question": "What component is used in hydroelectric plants to generate electricity from water flow?",
+      "answer": "The component used in hydroelectric plants to generate electricity from water flow is the **turbine**.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:56:01.128091"
+    }
+  ],
+  "3d469fc3-5f07-4f84-ae74-4391dcefc867": [
+    {
+      "question": "Over what time period have solar power installation costs dropped significantly?",
+      "answer": "The provided context does not include any information about a specific time period during which solar\u2011power installation costs have dropped. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:56:37.292725"
+    }
+  ],
+  "80b9c174-c02d-4353-b762-0e8f4bd6d1fd": [
+    {
+      "question": "What is the global market share percentage of nuclear energy?",
+      "answer": "I\u2019m sorry, but the provided context does not contain any information about the global market share percentage of nuclear energy.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:57:12.571977"
+    }
+  ],
+  "8fec39ce-ed84-4ec3-b9d7-cd812a1cb3bf": [
+    {
+      "question": "How much electricity does geothermal energy produce annually in Iceland?",
+      "answer": "I\u2019m sorry, but the information provided does not contain any details about geothermal energy production in Iceland.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:57:47.066087"
+    }
+  ],
+  "1c05f2f9-cc21-4653-a436-e0019df0131c": [
+    {
+      "question": "Who is the CEO of Tesla Energy?",
+      "answer": "I\u2019m sorry, but the provided context does not contain any information about the CEO of Tesla Energy.",
+      "citations": [
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 1
+        },
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 2
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T14:58:21.636741"
+    }
+  ],
+  "6f2e5f3a-664f-406a-b4c3-f2e139ca8a20": [
+    {
+      "question": "What is the chemical composition of a lithium-ion battery cathode?",
+      "answer": "I\u2019m sorry, but the provided context does not contain any information about the chemical composition of a lithium\u2011ion battery cathode.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 2
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:58:55.791587"
+    }
+  ],
+  "b77f0e30-1ce6-4f80-b269-2aae5b75b6ef": [
+    {
+      "question": "What is the current price of oil per barrel?",
+      "answer": "I\u2019m sorry, but the provided context does not contain any information about the current price of oil per barrel.",
+      "citations": [
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 3
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:59:32.246892"
+    }
+  ],
+  "96aa897a-c002-4aa5-b590-12fa5b86f3bf": [
+    {
+      "question": "Is renewable energy expensive?",
+      "answer": "The provided context does not give a direct statement about whether renewable energy is expensive. It mentions that governments are offering subsidies and tax incentives to encourage adoption, which suggests that cost considerations are a factor, but no explicit claim about the overall expense of renewable energy is made. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T14:59:53.816261"
+    }
+  ],
+  "e327d8ae-c004-41ea-a36d-2496011307af": [
+    {
+      "question": "Which one is the best?",
+      "answer": "Based on the snippets provided, there isn\u2019t enough information in the context to say which one is \u201cthe best.\u201d Each example serves a different purpose (student grading, room area calculation, book data handling, time manipulation, or course inheritance), and the context does not include any criteria or comparison that would allow us to rank them. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 1
+        }
+      ],
+      "timestamp": "2026-09-07T15:00:29.234779"
+    }
+  ],
+  "164c3ff1-76cf-4a50-9994-c692ece01277": [
+    {
+      "question": "How does it affect wildlife?",
+      "answer": "Wind turbines can be noisy and may impact local wildlife, especially birds and bats.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T15:00:48.189208"
+    }
+  ],
+  "c8a4778e-ebf4-419a-9f41-eebc0f3cfad2": [
+    {
+      "question": "Where should we build them?",
+      "answer": "Based on the information provided, the wind farms are being built in **Denmark and parts of the United States**.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 3
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T15:01:07.047776"
+    }
+  ],
+  "083ee882-ffe0-460a-aa3d-7414fcff5a10": [
+    {
+      "question": "Will fossil fuels run out?",
+      "answer": "The provided excerpts do not contain any information about the availability or depletion of fossil fuels. Therefore, based solely on the context given, I cannot determine whether fossil fuels will run out.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 2
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T15:01:24.870431"
+    }
+  ],
+  "058cc22d-2651-444d-811b-c17be2f78aaa": [
+    {
+      "question": "Why does the document claim that solar power is the oldest form of energy used for two centuries?",
+      "answer": "The provided context does not contain any statement claiming that solar power is the oldest form of energy used for two centuries, so I cannot provide an answer based on the given information. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 2
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T15:01:58.692820"
+    }
+  ],
+  "1222c936-22b6-42d9-8628-f2e935b8a3c4": [
+    {
+      "question": "Explain the section discussing nuclear fusion reactors in Denmark.",
+      "answer": "I\u2019m sorry, but the provided context does not contain any information about nuclear fusion reactors in Denmark, so I can\u2019t explain that section.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 2
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T15:02:35.700539"
+    }
+  ],
+  "6722e6c3-29f6-457a-963f-d3cab684700c": [
+    {
+      "question": "How much money did the United States spend on offshore wind energy according to the text?",
+      "answer": "The provided text does not contain any information about how much money the United States spent on offshore wind energy. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 3
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T15:03:13.347114"
+    }
+  ],
+  "af13a0d1-dc79-4057-b564-a882014364ea": [
+    {
+      "question": "Why are hydroelectric dams considered completely safe for local fish populations?",
+      "answer": "The context does not provide any reason that hydroelectric dams are considered completely safe for local fish populations. In fact, it notes that building large dams can significantly disrupt local ecosystems, which would include fish habitats. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T15:03:47.500952"
+    }
+  ],
+  "412a54f7-6285-4f44-a9e8-1186c8534ba3": [
+    {
+      "question": "Summarize the paragraph regarding coal-fired power plants.",
+      "answer": "There is no paragraph about coal\u2011fired power plants in the provided context.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.pdf",
+          "page": 1,
+          "chunk": 2
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 4
+        }
+      ],
+      "timestamp": "2026-09-07T15:04:29.054759"
+    }
   ]
 }
