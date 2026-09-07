@@ -1,0 +1,26 @@
+{
+  "8e67f7ec-67e8-4db6-858e-b11b71011f3c": [
+    {
+      "question": "What are the challenges of wind power?",
+      "answer": "The main challenges of wind power mentioned are that turbines can be noisy and may negatively affect local wildlife, especially birds and bats.",
+      "citations": [
+        {
+          "filename": "sample.txt",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 4
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 5
+        }
+      ],
+      "timestamp": "2026-09-07T07:51:39.791431"
+    }
+  ]
+}
