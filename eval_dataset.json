@@ -1,0 +1,182 @@
+[
+    {
+        "category": "Easy",
+        "question": "What are the three most widely adopted forms of renewable energy worldwide?",
+        "expected_answer": "Solar power, wind power, and hydroelectric power.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Easy",
+        "question": "How does solar power convert sunlight into electricity?",
+        "expected_answer": "Solar power relies on photovoltaic cells to convert sunlight directly into electricity.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Easy",
+        "question": "Which technology captures kinetic energy from moving air?",
+        "expected_answer": "Wind power uses turbines to capture kinetic energy from moving air.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Easy",
+        "question": "How long has hydroelectric power been in use?",
+        "expected_answer": "Hydroelectric power has been used for over a century.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Easy",
+        "question": "What are governments introducing to encourage renewable energy adoption?",
+        "expected_answer": "Subsidies and tax incentives.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Multi-hop",
+        "question": "What challenges do solar and wind power share regarding supply consistency, and how are they addressed?",
+        "expected_answer": "Solar depends on daylight and weather, requiring battery storage, while battery technology improvements generally help make renewable sources more reliable.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Multi-hop",
+        "question": "Compare the environmental challenges associated with wind turbines and hydroelectric dams.",
+        "expected_answer": "Wind turbines cause noise and affect local wildlife like birds and bats, whereas large hydroelectric dams disrupt local ecosystems and displace nearby communities.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Multi-hop",
+        "question": "How do geographical features influence the deployment of wind and hydroelectric power?",
+        "expected_answer": "Wind power is suited for coastal regions and open plains, while hydroelectric power relies on rivers and flowing water where dams can be built.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Multi-hop",
+        "question": "What drivers are pushing governments to offer financial incentives for renewable energy?",
+        "expected_answer": "Growing concerns about climate change, air pollution, and the long-term depletion of fossil fuel reserves.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Multi-hop",
+        "question": "Why is hydroelectric power considered more reliable than solar energy?",
+        "expected_answer": "Hydroelectric power's water flow can often be controlled and predicted, unlike solar power which depends on weather and daylight hours.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Specific Citations",
+        "question": "Which specific countries are mentioned as having invested heavily in wind farms?",
+        "expected_answer": "Denmark and parts of the United States.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Specific Citations",
+        "question": "What specific animals are explicitly named as affected by wind turbines?",
+        "expected_answer": "Birds and bats.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Specific Citations",
+        "question": "What technology component is mentioned as essential for solar power energy storage?",
+        "expected_answer": "Batteries.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Specific Citations",
+        "question": "What component is used in hydroelectric plants to generate electricity from water flow?",
+        "expected_answer": "Turbines typically built through dams on rivers.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Specific Citations",
+        "question": "Over what time period have solar power installation costs dropped significantly?",
+        "expected_answer": "Over the past decade.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "No Answer",
+        "question": "What is the global market share percentage of nuclear energy?",
+        "expected_answer": "I cannot answer this based on the provided documents.",
+        "expected_source": "None"
+    },
+    {
+        "category": "No Answer",
+        "question": "How much electricity does geothermal energy produce annually in Iceland?",
+        "expected_answer": "I cannot answer this based on the provided documents.",
+        "expected_source": "None"
+    },
+    {
+        "category": "No Answer",
+        "question": "Who is the CEO of Tesla Energy?",
+        "expected_answer": "I cannot answer this based on the provided documents.",
+        "expected_source": "None"
+    },
+    {
+        "category": "No Answer",
+        "question": "What is the chemical composition of a lithium-ion battery cathode?",
+        "expected_answer": "I cannot answer this based on the provided documents.",
+        "expected_source": "None"
+    },
+    {
+        "category": "No Answer",
+        "question": "What is the current price of oil per barrel?",
+        "expected_answer": "I cannot answer this based on the provided documents.",
+        "expected_source": "None"
+    },
+    {
+        "category": "Ambiguous",
+        "question": "Is renewable energy expensive?",
+        "expected_answer": "Solar installation costs have dropped over the past decade, but specific overall costs vary by technology and government subsidies.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Ambiguous",
+        "question": "Which one is the best?",
+        "expected_answer": "Each renewable source has unique advantages and challenges depending on geography, climate, and infrastructure.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Ambiguous",
+        "question": "How does it affect wildlife?",
+        "expected_answer": "Wind turbines can affect birds and bats, while hydroelectric dams can disrupt local aquatic ecosystems.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Ambiguous",
+        "question": "Where should we build them?",
+        "expected_answer": "Wind farms suit coastal regions or open plains, hydroelectric power requires rivers, and placement depends on geography and climate.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Ambiguous",
+        "question": "Will fossil fuels run out?",
+        "expected_answer": "The text mentions growing concerns regarding the long-term depletion of fossil fuel reserves.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Hallucination Trigger",
+        "question": "Why does the document claim that solar power is the oldest form of energy used for two centuries?",
+        "expected_answer": "The document does not state that solar power is the oldest form; it states hydroelectric power has been used for over a century.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Hallucination Trigger",
+        "question": "Explain the section discussing nuclear fusion reactors in Denmark.",
+        "expected_answer": "The document does not contain any information about nuclear fusion reactors.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Hallucination Trigger",
+        "question": "How much money did the United States spend on offshore wind energy according to the text?",
+        "expected_answer": "The document mentions that Denmark and the US invested heavily, but does not provide specific monetary figures.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Hallucination Trigger",
+        "question": "Why are hydroelectric dams considered completely safe for local fish populations?",
+        "expected_answer": "The document states that building large dams can significantly disrupt local ecosystems.",
+        "expected_source": "sample.txt"
+    },
+    {
+        "category": "Hallucination Trigger",
+        "question": "Summarize the paragraph regarding coal-fired power plants.",
+        "expected_answer": "The document does not contain a paragraph regarding coal-fired power plants.",
+        "expected_source": "sample.txt"
+    }
+]
