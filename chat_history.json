@@ -22,5 +22,24 @@
       ],
       "timestamp": "2026-09-07T07:51:39.791431"
     }
+  ],
+  "a3c5418f-85a8-472f-aab6-3d9c745660bc": [
+    {
+      "question": "what is in the document?",
+      "answer": "The document contains:\n\n1. **A test DOCX file** that describes a company founded in 2015 that works in renewable energy.  \n2. **An OOP lab manual** (submitted by Minahil\u202fFarrukh, roll\u202fbsf24002960) for a BSIT semester\u20112 course. The manual lists the labs (Class, Constructors, Copy Constructor, Operator Overloading, Array of objects, Composition/Aggregation, Inheritance, Multiple Inheritance, Polymorphism, Abstract Class) and includes sample C++ code.  \n3. **Sample C++ code** for a vehicle maintenance program featuring `Four_Wheeler` and `Two_Wheeler` classes derived from `Vehicle`, with a `first_maintenance()` function and a `display()` method.  \n4. **Output snippets** from the vehicle program.  \n5. **Additional code snippets** for a `UtilityBill` class and a `Book` class, with comments about analyzing and correcting errors. [Note: some claims could not be verified against source documents]",
+      "citations": [
+        {
+          "filename": "sample.docx",
+          "page": "unknown",
+          "chunk": 1
+        },
+        {
+          "filename": "bsf24002960.docx,oop.docx",
+          "page": "unknown",
+          "chunk": 2
+        }
+      ],
+      "timestamp": "2026-09-07T14:24:20.890944"
+    }
   ]
 }
